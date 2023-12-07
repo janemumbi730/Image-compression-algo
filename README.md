@@ -1,4 +1,4 @@
-# ML-Image-Compressing
+# Image opti blend
 Image compressing using K-means algorithm
 
 
